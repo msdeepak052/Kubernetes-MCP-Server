@@ -156,7 +156,7 @@ npx -v
 
 Install MCP Server from below
 
-[https://github.com/containers/kubernetes-mcp-server?tab=readme-ov-file](MCP Server)
+[MCP Server](https://github.com/containers/kubernetes-mcp-server?tab=readme-ov-file)
 
 Open **Settings JSON** in **WSL VS Code**:
 
