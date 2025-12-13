@@ -15,7 +15,7 @@
 2. Go to **Extensions** (`Ctrl + Shift + X`)
 3. Search for:
 
-   ```
+  ```
   WSL
    ```
 4. Install it
