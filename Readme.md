@@ -158,14 +158,15 @@ Install MCP Server from below
 
 [MCP Server](https://github.com/containers/kubernetes-mcp-server?tab=readme-ov-file)
 
+<img width="1575" height="655" alt="image" src="https://github.com/user-attachments/assets/d7526dfd-b2f2-4268-bc04-473bb958c1cc" />
+
 Open **Settings JSON** in **WSL VS Code**:
 
 ```
 Ctrl + Shift + P
 → Preferences: Open Settings (JSON)
 ```
-
-Add:
+Check
 
 ```json
 {
@@ -221,7 +222,10 @@ Connection state: Ready
 
 # 🟢 STEP 10 — Final sanity test
 
-In VS Code chat / agent:
+In VS Code chat / Make sure the Copilot is connected through agent:
+
+<img width="686" height="167" alt="image" src="https://github.com/user-attachments/assets/dadc7cf0-b0e6-406f-a0c2-7ad9d7b4faec" />
+
 
 Try:
 
@@ -279,13 +283,3 @@ Example:
 
 ---
 
-## ✅ You’re done
-
-If you want next:
-
-* Multi-cluster MCP isolation
-* Per-environment MCP (dev vs prod)
-* MCP + Helm workflows
-* AI safety guardrails for prod clusters
-
-Just tell me 👌
