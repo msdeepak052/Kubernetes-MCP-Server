@@ -42,6 +42,9 @@
    WSL: Ubuntu
    ```
 
+   <img width="1260" height="1054" alt="image" src="https://github.com/user-attachments/assets/859c612f-6203-4ef5-8a26-6f6527fafe89" />
+
+
 ⚠️ If you still see `><` or nothing → you are NOT in WSL.
 
 ---
@@ -194,13 +197,19 @@ Save file.
 2. Run:
 
    ```
-   MCP: Start Server
+   MCP: List Server
    ```
 3. Select:
 
    ```
    kubernetes
    ```
+   Start the server
+
+   <img width="1425" height="405" alt="image" src="https://github.com/user-attachments/assets/1040d200-ab85-4a1a-bb65-23001261376f" />
+
+   <img width="1286" height="472" alt="image" src="https://github.com/user-attachments/assets/c04e4ca9-421c-44d0-b1d1-f57e478e31f5" />
+
 
 ---
 
@@ -213,10 +222,7 @@ Connection state: Running
 Waiting for server to respond to initialize
 Connection state: Ready
 ```
-
-❌ No `invalid configuration`
-❌ No minikube cert errors
-❌ No process exit
+<img width="1413" height="933" alt="image" src="https://github.com/user-attachments/assets/bea87ddc-3441-4ba2-87ab-2bab0a223b3a" />
 
 ---
 
@@ -232,12 +238,15 @@ Try:
 ```
 List all namespaces
 ```
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/c521139f-eaca-41b3-922b-e24ec2fb4f48" />
 
 or:
 
 ```
 Show nodes in the current cluster
 ```
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/55f4ae23-768f-4c1a-96c1-d2f930ff7d58" />
+
 
 You should get **real Kubernetes output**.
 
