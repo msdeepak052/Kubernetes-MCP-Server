@@ -1,0 +1,1 @@
+Your Personal Loan Loan A/c No.167799037 for Rs 5,00,000/- is approved. You can complete disbursement online . Click on link https://1.hdfc.bank.in/HDFCBK/s/7p2oqL08 -HDFC Bank
